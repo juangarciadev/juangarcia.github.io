@@ -1,0 +1,63 @@
+
+# SEO settings
+title: TekDrake
+description: "iOS Developer"
+keywords: "iOS Developer, blog"
+url: "http://tekdrake.com"
+baseurl: ""
+# baseurl: null
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-89976686-1"  # Your Google Analytics ID
+
+repo: https://github.com/TekDrake/tekdrake.github.io
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus_shortname: "tekdrake-site"
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 4
+paginate_path: "/page/:num/"
+comments: true
+
+source: source
+destination: _site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : Juan Garcia
+  job      : iOS Developer
+  developer: iOS
+  thumb    : source/assets/images/author.png
+  email    : juansftdev@gmail.com
+  url      : http://tekdrake.com
+  github   : http://github.com/tekdrake
+  twitter  : http://twitter.com/tekdrake
+  linkedin : http://linkedin.com/in/juangarciadev
+
+# social settings
+twitter_card: "summary_large_image"
+twitter_site: "@tekdrake"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+# Exclude these files from production site
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "CNAME", "LICENSE"]
