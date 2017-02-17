@@ -45,7 +45,7 @@ categories: Personal
 
 <p>I'm confident that I can make all this happen by the end of this year, but I;m worried about procrastination.<br>Instant Gratification Monkey is the last creature who should be in charge of your decisions. If you want to know more about what I am talking about, see <a href="https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread" target="_blank">this TED talk</a>.</p>
 
-<center><img src="/assets/images/posts/2017/01/instant_gratification_monkey.png" alt="TED Talk" style="width:400px;height:221px;"></center>
+<center><img src="/assets/images/posts/2017/01/instant_gratification_monkey.png" alt="TED Talk Image" style="width:400px;height:221px;"></center>
 
 <p>I'm only using Twitter for social media these days and surfing the web, but I always feel spammed with too many distracting/tempting things. I know that some days I will finish my day watching funny cat videos <strong>¯\_(ツ)_/¯</strong>.</p>
 

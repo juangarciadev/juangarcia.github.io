@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div align="center">
-<img src="/assets/images/avatar.png" alt="Img Profile" style="width:150px;height:150px;margin-bottom:0.8cm;">
+<img src="/assets/images/avatar.png" alt="Juan Garcia" style="width:150px;height:150px;margin-bottom:0.8cm;">
 </div>
 
 <p>I am a passionate developer that is always trying to gain new knowledge to help me improve my career. For around six years, I have been focusing on iOS programs and I've maintained the same motivation I had back when Apple released Swift.<br>I have always worked for a software company and have developed many apps for upload to Apple Store or for use by customers internally in their companies. I have also developed some libraries and modified some from Github which were included in different projects, but because they were for projects in a company that I was working for, I can't put the details on here (due to privacy contracts).</p>  
