@@ -13,7 +13,7 @@ google_analytics: "UA-89976686-1"  # Your Google Analytics ID
 repo: https://github.com/TekDrake/tekdrake.github.io
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus_shortname: "tekdrake-site"
+disqus_shortname: "tekdrake-blog"
 
 # Build settings
 permalink   : /:year/:title/
