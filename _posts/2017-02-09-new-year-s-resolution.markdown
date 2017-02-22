@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Year's Resolution"
+title:  "New Year&apos;s Resolution"
 comments: true
 date:   2017-02-09 01:25:00 -0700
 categories: Personal
