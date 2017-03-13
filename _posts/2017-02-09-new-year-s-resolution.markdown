@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "New Year&apos;s Resolution"
+title: "New Year&apos;s Resolution"
 comments: true
-date:   2017-02-09 01:25:00 -0700
+date: 2017-02-09 01:25:00 -0700
 categories: Personal
 ---
 
-<p>I think the best way to start my blog is with the New Year's resolution post. I also wanted to share this list as a way to keep you in the loop on what I will be working on, the things I'm happy about achieving, and the different paths my life may take.</p>
+<p>I think the best way to start my Blog is with the New Year's resolution post. I also wanted to share this list as a way to keep you in the loop on what I will be working on, the things I'm happy about achieving, and the different paths my life may take.</p>
 
 <p>Well, let's get started!<br>2017 has started out amazing for me, because I started with a big goal that I always wanted to achieve. I didn't get into it before because I didn't feel confident in my English skills, but now I'm starting my own Blog and this is the first post <strong>(•_•) ( •_•)>⌐■-■ (⌐■_■)</strong>.<br>Last year was amazing and I accomplished a lot. I finished with a big list of things that I was putting off for many years, but I decided that this year was time to put my hands in all of it, but...</p>
 
@@ -22,8 +22,8 @@ categories: Personal
   <li>Expand my knowledge in iOS Architecture Patterns (MVC, MVP, MVVM, VIPER)</li>
   <li>Learn how to write good Unit Tests in iOS</li>
   <li>Discover different tools to implement CI(Continuous Integration)  and implement it in projects in the company I work for or for my personal projects.</li>
-  <li><strike>Have my own blog.</strike></li>
-  <li>Write a blog post regularly.</li>
+  <li><strike>Have my own Blog.</strike></li>
+  <li>Write a Blog post regularly.</li>
   <li>Prepare talks to bring up internally at work, in meetups and conferences.</li>
   <li>Improve my English.</li>
   <li>Find more partners to do online language exchanges.</li>

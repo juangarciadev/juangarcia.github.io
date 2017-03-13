@@ -1,0 +1,26 @@
+---
+layout: post
+title: "How I created my Blog using GitHub Pages"
+comments: true
+date: 2017-03-12 20:40:00
+categories: GitHub Pages
+---
+
+<p>You may be thinking: “Are you writing about how to create a Blog in your Blog” &#x1F914;. And the answer is, Yes! Why? Because, surprisingly, I found that it was not too difficult to create one.</p>
+
+<p>Seriously &#x1F61C; I thought about writing this post when I found GitHub Pages while looking for an easy way to make my Blog (since I don't know much about web development and I thought it would be difficult).<br>Please note that this is based on my experience and isn't a tutorial. I wanted to show my personal process and I won't get too deep into the steps because GitHub and Jekyll already have fantastic, easy to follow documentation. I'm leaving links throughout the text to help you.<br>So, here are the steps:</p>
+<ul>
+<li><strong style="color:black;font-weight:bold;">Create a repository or “repo” on GitHub.</strong> You need to do it with this termology e.g: “your-github-username.github.io”. The first thing that I did was follow the step from <a href="https://pages.github.com" target="_blank">GitHub Pages website</a>.</li>
+<li><strong style="color:black;font-weight:bold;">Clone this repo to your computer.</strong> (You can see how to do that in the link above).</li>
+<li><strong style="color:black;font-weight:bold;">Upload a “Hello World” HTML (Optional).</strong> I created a simple HTML file with a “Hello World” and I pushed it to my repo. After that I saw it running on: <a href="http://tekdrake.github.io" target="_blank">tekdrake.github.io</a>. And voila! It was there, the first “Hello World” on GitHub Pages. I was very enthusiastic to turn that simple HTML into a Blog.</li> 
+<li><strong style="color:black;font-weight:bold;">Install Jekyll.</strong> I'm using Jekyll to do the hard work of hosting my site for me &#x1F642;, You can read about it and follow the instructions to install it here: <a href="https://jekyllrb.com/docs/home/" target="_blank">Welcome to Jekyll</a>. It's recommended by GitHub and, for me, it had easy to follow installation instructions.</li>
+<li><strong style="color:black;font-weight:bold;">Get a site theme.</strong> There are a lot of free themes on the internet. I want to say thanks to all the incredible people that upload themes as an open source making our life easy &#x1F64C;. Well, I put a link here <a href="http://jekyllthemes.org" target="_blank">Jekyll Themes</a>, but you can find more searching for “jekyll themes” too.<br>Since I didn't have any posts to upload to my Blog, I uploaded a <a href="http://tekdrake.com/landing" target="_blank">landing page</a>. I found this landing page theme here <a href="https://html5up.net" target="_blank">html5up</a>. 
+After I wrote my first post, it was time to find a Blog theme. I found mine <a href="https://github.com/nandomoreirame" target="_blank">here</a> and I chose because of its simplicity.</li>
+<li><strong style="color:black;font-weight:bold;">Modify your theme.</strong> After finding your dream template, it's time to get to work. Make cosmetic changes, fill out your personal data, and add your post. When you finish with the modifications and feel that it's ready to go, it's time to test locally on your computer first. If you are following the steps it should be easy at this point to test your site locally. Follow the instructions here: <a href="https://jekyllrb.com/docs/usage/" target="_blank">Basic Usage</a>.<br>In my case, modifying the landing page was easy because I did minimal UI changes and added my social network links and that was all. The Blog theme itself was a little bit harder to customize because the format for making cosmetic changes was more complex. I also had a hard time with the comment section and with gem dependencies (some of the dependencies were deprecated and I needed to update them). These were a couple of the obstacles I faced while trying to complete my Blog.</li>
+<li><strong style="color:black;font-weight:bold;">Share your site to the world.</strong> Well, you are almost done. Push your changes to the repo and you will see your site uploaded in the cloud &#x1F389;.</li>
+<li><strong style="color:black;font-weight:bold;">Buy a domain (Optional).</strong> Because I wanted a custom URL, I bought a domain on <a href="https://www.namecheap.com" target="_blank">namecheap.com</a>. To use your custom URL, you need to add a CNAME file with the name you bought to your repo and plug the custom URL name into the Custom Domain box in the settings of your repo in the GitHub account. You will need to fill in some fields on the namecheap website too. You can check how to do that here: <a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages" target="_blank">How do I link my domain to GitHub Pages?</a>.</li>
+</ul>
+
+<p>Well, those were the steps that I followed to get my Blog ready!</p>
+
+<p>Thanks for checking me out and feel free to show some love in the comment section below.</p>
