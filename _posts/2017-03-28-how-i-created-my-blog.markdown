@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "How I created my Blog using GitHub Pages"
+title: "How I created my Blog"
 comments: true
-date: 2017-03-12 20:40:00
-categories: GitHub Pages
+date: 2017-03-28 15:00:00
+categories: blog
 ---
 
 <p>You may be thinking: “Are you writing about how to create a Blog in your Blog” &#x1F914;. And the answer is, Yes! Why? Because, surprisingly, I found that it was not too difficult to create one.</p>
