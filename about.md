@@ -8,7 +8,7 @@ permalink: /about/
 <img src="/assets/images/avatar.png" alt="Juan Garcia" style="width:150px;height:150px;margin-bottom:0.8cm;">
 </div>
 
-<p>I am a passionate developer who is always trying to gain new knowledge to keep pushing my career forward. For around six years, I have been focusing on iOS apps.<br>I have always worked for a software factories and have developed many apps for upload to Apple Store or for use by customers internally in their companies, but because they were for projects in a company that I was working for, I can't put the details on here (due to privacy contracts). I have also developed some libraries and modified some from Github which were included in different projects.</p>  
+<p>I am a passionate developer who is always trying to gain new knowledge to keep pushing his career forward. For around six years, I have been focusing on iOS apps.<br>I have always worked for a software factories and have developed many apps for upload to Apple Store or for use by customers internally in their companies, but because they were for projects in a company that I was working for, I can't put the details on here (due to privacy contracts). I have also developed some libraries and modified some from Github which were included in different projects.</p>  
 
 <p>On 2017 I will be uploading my own stuff. I have some crazy iOS app ideas in mind. I'm also open to collaboration so ping me if you need help &#x1F913;.<br>I have given iOS presentations internally in the company and in a few meetups here in Uruguay. I am interested in being a speaker at meetups or conferences in other countries.</p>
 
