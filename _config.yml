@@ -1,6 +1,6 @@
 
 # SEO settings
-title: TekDrake
+title: Juan Garcia
 description: "iOS Developer"
 keywords: "iOS Developer, blog"
 url: "http://tekdrake.com"
@@ -10,7 +10,7 @@ baseurl: ""
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-89976686-1"  # Your Google Analytics ID
 
-repo: https://github.com/TekDrake/tekdrake.github.io
+repo: https://github.com/juangarciadev/tekdrake.github.io
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus_shortname: "tekdrake-blog"
@@ -39,13 +39,13 @@ author:
   thumb    : assets/images/avatar.png
   email    : juansftdev@gmail.com
   url      : http://tekdrake.com
-  github   : http://github.com/tekdrake
-  twitter  : http://twitter.com/tekdrake
+  github   : http://github.com/juangarciadev
+  twitter  : http://twitter.com/juangarcia_dev
   linkedin : http://linkedin.com/in/juangarciadev
 
 # social settings
 twitter_card: "summary_large_image"
-twitter_site: "@tekdrake"
+twitter_site: "@juangarcia_dev"
 
 gems:
   - bourbon
